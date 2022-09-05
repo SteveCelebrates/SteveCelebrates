@@ -4,7 +4,7 @@ I work with individuals and businesses to help them deploy new technologies that
 
 I'm a firm believer in putting plans into action. If it doesn't work, the design is flawed. If a design is successful, it must and should be functional.
 
-- 🔭 I’m currently working on: Sms Notification Api for Mpesa
+- 🔭 I’m currently working on: Sms Notification Api for Magento 2, Tims (Kra Intergration) Magento 2, School Managent System (From CodeIgniter) to Laravel
 - 🌱 I’m currently learning: PMI-ACP
 - 👯 I’m looking to collaborate on: Magento 2 Technology projects. Hit me up if you have any.
 
