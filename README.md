@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I work with individuals and businesses to help them deploy new technologies that can help them alter their organizations and enterprises. I'm also fascinated with artificial intelligence and its numerous implementations at various industrial levels.
+
+I'm a firm believer in putting plans into action. If it doesn't work, the design is flawed. If a design is successful, it must and should be functional.
+
+- 🔭 I’m currently working on: Sms Notification Api for Mpesa
+- 🌱 I’m currently learning: PMI-ACP
+- 👯 I’m looking to collaborate on: Magento 2 Technology projects. Hit me up if you have any.
+
 <!--
 **SteveCelebrates/SteveCelebrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
