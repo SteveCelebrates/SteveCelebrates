@@ -24,9 +24,9 @@ I'm a firm believer in putting plans into action. If it doesn't work, the design
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Places you can find me:</h3>
 <p align="left">
-  <a href="kedin.com/in/patrick-steven-maunda-7635b364/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/patrick-steven-maunda-7635b364/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Steven Maunda Patrick" height="30" width="40" /></a> 
   <a href="https://www.facebook.com/PatrickStevenMaunda/" target="blank"><img align="center"
@@ -61,3 +61,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>My Stats. Oh! Boy:-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SteveCelebrates&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="SteveCelebrates" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SteveCelebrates&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="SteveCelebrates" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SteveCelebrates&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="SteveCelebrates" /></p>
+
+<!-- <br>
+<h3>Trophies :-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
