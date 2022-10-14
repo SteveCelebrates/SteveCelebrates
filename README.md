@@ -1,11 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Steve</h1>
 <h3 align="center">A Software Developer, Kenya🌟.</h3>
 
+<br>
+
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=SteveCelebrates&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
 <br>
+
+<p><img align="right" src="https://github.com/SteveCelebrates/SteveCelebrates/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 ### Hi there 👋
