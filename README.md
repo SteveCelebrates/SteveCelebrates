@@ -8,6 +8,29 @@ I'm a firm believer in putting plans into action. If it doesn't work, the design
 - 🌱 I’m currently learning: PMI-ACP
 - 👯 I’m looking to collaborate on: Magento 2 Technology projects. Hit me up if you have any.
 
+<table>
+    <tr>
+        <th>Inline-diff</th>
+        <th>Status dashboard</th>
+    </tr>
+    <tr>
+        <td width="50%">
+            <a href="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif">
+                <img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="100%">
+            </a>
+        </td>
+        <td width="50%">
+            <a href="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png">
+                <img src="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png" width="100%">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">(Un)stage and revert individual lines and hunks.</td>
+        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
+    </tr>
+</table>
+
 <!--
 **SteveCelebrates/SteveCelebrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
